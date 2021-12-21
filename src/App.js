@@ -16,14 +16,7 @@ function App() {
           <p>
             Edit <code>src/App.js</code> and save to reload.
           </p>
-          <a
-            className="App-link"
-            href="https://reactjs.org"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            Learn React
-          </a>
+          <p>This app is has Redux, Store and Redux-devtools-extensions connected</p>
         </header>
       </div>
   );
